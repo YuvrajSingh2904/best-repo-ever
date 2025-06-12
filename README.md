@@ -6,4 +6,6 @@ testing new changes for GIT BASH
 New Changes committed from inside the Local Repo for Committing and staging changes into the 
 remote repo
 
-changes for branch 1 new changes ---
+
+New Changes from branch 2
+
